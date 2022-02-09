@@ -1,0 +1,17 @@
+
+Predictions: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+
+Score: 0.7924528301886793
+
+Summary statistics
+column means: [2895.7884615384614, 1133.2307692307693, 242.17307692307693, 0.5384615384615384]
+column standard dev: [13891.799947375554, 2118.8560325982103, 601.6143876419495, 0.5033822257076337]
+column medians: [99.0, 422.5, 22.5, 1.0]
+
+
+Null counts: [0.0, 0.0, 0.0, 0.0, 0.0]
+Execution times in seconds [ingest, train]: 
+[0.550598900001205, 1.4052764999942156]
+Dependencies Report:
+b'Package       Version Latest Type\n------------- ------- ------ -----\ncffi          1.14.6  1.15.0 wheel\nmatplotlib    3.4.3   3.5.1  wheel\nnumpy         1.21.2  1.22.2 wheel\npandas        1.2.5   1.4.0  wheel\nPyQt5         5.12.3  5.15.6 wheel\nPyQt5_sip     4.19.18 12.9.1 wheel\nPyQtChart     5.12    5.15.5 wheel\nPyQtWebEngine 5.12.1  5.15.5 wheel\nsetuptools    59.8.0  60.8.1 wheel\nstatsmodels   0.13.1  0.13.2 wheel\n'
